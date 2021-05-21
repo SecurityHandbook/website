@@ -4,5 +4,5 @@ title: Security Handbook
 permalink: /
 ---
 
-{% translate_file basics.md %}
+{% tf basics.md %}
 
