@@ -3,11 +3,13 @@ title: "Security Handbook"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 
-aux_links:
-  'CS':
-    - "/cs/{{ page.name }}"
-  'EN':
-    - "/en/{{ page.name }}"
+languages:
+  - 'cs'
+  - 'en'
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+plugins:
+  - jekyll-multiple-languages-plugin
+
