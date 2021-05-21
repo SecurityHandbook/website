@@ -1,3 +1,10 @@
+---
+layout: default
+title: Příručka bezpečnosti: Základy
+permalink: /
+lang: cs
+---
+
 # FAQ – Základy bezpečnosti
 
 ## Základní pojmy:

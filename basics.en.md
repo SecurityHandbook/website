@@ -1,3 +1,10 @@
+---
+layout: default
+title: Security Handbook: Basics
+permalink: /
+lang: en
+---
+
 # FAQ – Security Basics
 
 ## Glossary:
