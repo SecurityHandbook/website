@@ -1,3 +1,9 @@
+---
+layout: default
+title: Security Handbook
+nav_exclude: true
+---
+
 # Security Handbok
 Select language:
 - [Czech](./cs/basics.md)
